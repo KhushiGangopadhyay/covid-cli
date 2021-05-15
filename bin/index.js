@@ -21,7 +21,7 @@ var opt = {
   url: 'https://covid-19-data.p.rapidapi.com/country/code',
   params: {code: `${options.name}` },
   headers: {
-    'x-rapidapi-key': '7c9e9d03ebmsh904aa2bf9e2593ap1192a9jsne73d81e16e66',
+    'x-rapidapi-key': 'your api key',
     'x-rapidapi-host': 'covid-19-data.p.rapidapi.com'
   }
 };
